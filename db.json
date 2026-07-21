@@ -1,0 +1,47 @@
+{
+    "Maincategory":[
+        {
+            "id":0
+        }
+    ],
+    "subcategory":[
+        {
+            "id":0
+        }
+    ],
+    "brands":
+    [
+    {
+        "id":0
+    }
+   ],
+   "products":[
+    {
+        "id":0
+    }
+   ],
+   "user":[
+    {
+        "id":0
+    }
+   ],
+   "cart":[
+    {
+        "id":0
+    }
+   ],
+   "newsletter":[
+    {
+        "id":0
+    }
+   ],
+   "checkout":[
+    {
+        "id":0
+    }
+   ], "contact":[
+    {
+        "id":0
+    }
+   ]
+}
